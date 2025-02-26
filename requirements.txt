@@ -1,0 +1,11 @@
+opencv-python
+numpy
+edge-tts
+sounddevice
+scipy
+requests
+torch
+Pillow
+fastapi
+uvicorn
+git+https://github.com/openai/CLIP.git
